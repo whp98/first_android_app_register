@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ab4738d4-ab30-48f5-b4e3-f5aeb5ce8442" />
+      <option name="name" value="ab4738d4-ab30-48f5-b4e3-f5aeb5ce8442" />
+      <option name="url" value="https://repo.huaweicloud.com/repository/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="7db2006f-224b-475b-9071-b2d22f109407" />
+      <option name="name" value="7db2006f-224b-475b-9071-b2d22f109407" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f8577fe0-b8ce-45e7-a911-a4fdec8a0e77" />
+      <option name="name" value="f8577fe0-b8ce-45e7-a911-a4fdec8a0e77" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/jcenter" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="2d080846-d2f8-4e51-813e-055b2ec14abf" />
+      <option name="name" value="2d080846-d2f8-4e51-813e-055b2ec14abf" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">注册</string>
+    <string name="reg_phone_number">手机号</string>
+    <string name="phone_num_input">请输入手机号</string>
+    <string name="pwd_input_hint">请输入密码</string>
+    <string name="man_radio">男</string>
+    <string name="woman_radio">女</string>
+    <string name="like1_reading">读书</string>
+    <string name="like2_ball">打球</string>
+    <string name="like3_music">听音乐</string>
+    <string name="register_text">注册</string>
+    <string name="pwd">密码</string>
+</resources>
